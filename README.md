@@ -1,2 +1,1 @@
-C > C++ <br>
-the only reason I use c++ is because im stupid
+oxoldev.com (Probably broken)<br>
